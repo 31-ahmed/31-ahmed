@@ -15,7 +15,7 @@ Made with 💜 by [Ahmed Ali](https://www.linkedin.com/in/ahmed-ali-3993b4279/)
 > 🧠 I’m fascinated by the **patterns behind numbers**, how **data tells stories**, and how **machine learning predicts the future**.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Aspiring+Data-Driven+Analyst+%F0%9F%93%88;Exploring+Data+Science+%26+Machine+Learning;Crafting+Data+Pipelines+%F0%9F%A7%A0;Finding+Stories+in+Numbers+%F0%9F%93%8A;Lover+of+Financial+Insights+and+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=650&height=140&lines=Aspiring+Data-Driven+Analyst+%F0%9F%93%88;Exploring+Data+Science+%26+Machine+Learning;Crafting+Data+Pipelines+%F0%9F%A7%A0;Finding+Stories+in+Numbers+%F0%9F%93%8A;Love+Financial+Insights+and+Analytics" alt="Typing SVG" />
 </div>
 
 ---
