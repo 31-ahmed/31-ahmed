@@ -15,7 +15,7 @@ Made with 💜 by [Ahmed Ali](https://www.linkedin.com/in/ahmed-ali-3993b4279/)
 > 🧠 I’m fascinated by the **patterns behind numbers**, how **data tells stories**, and how **machine learning predicts the future**.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Exploring+Data+Analysis+Roles;Diving+into+Data+Engineering+Pipelines;Building+Skills+in+Machine+Learning;Obsessed+with+Financial+Data+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Aspiring+Data-Driven+Analyst+%F0%9F%93%88;Exploring+Data+Science+%26+Machine+Learning;Crafting+Data+Pipelines+%F0%9F%A7%A0;Finding+Stories+in+Numbers+%F0%9F%93%8A;Lover+of+Financial+Insights+and+Analytics" alt="Typing SVG" />
 </div>
 
 ---
@@ -53,10 +53,12 @@ Made with 💜 by [Ahmed Ali](https://www.linkedin.com/in/ahmed-ali-3993b4279/)
   <img src="https://img.shields.io/badge/Data%20Analysis%20Essentials-Coursera-blue?style=for-the-badge&logo=google-scholar" />
   <img src="https://img.shields.io/badge/Data%20Visualization%20with%20Tableau-Udemy-purple?style=for-the-badge&logo=tableau" />
   <img src="https://img.shields.io/badge/Python%20Essentials-Sololearn-orange?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Foundations%20of%20Project%20Management-Coursera-green?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/SQL%20for%20Data%20Science-Coursera-darkblue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Intro%20to%20Data%20Science-Kaggle-blueviolet?style=for-the-badge&logo=kaggle" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Stanford-red?style=for-the-badge&logo=deeplearningdotai" />
   <img src="https://img.shields.io/badge/AWS%20S3%20Basics-CloudAcademy-red?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Foundations%20of%20Project%20Management-Coursera-green?style=for-the-badge&logo=google" />
 </div>
-
 ---
 
 ### 📈 GitHub Stats
