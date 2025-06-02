@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=31-ahmed)
+
 <div align="center">
 
 Made with 💜 by [Ahmed Ali](https://www.linkedin.com/in/ahmed-ali-3993b4279/)
